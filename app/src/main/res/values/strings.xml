@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UcuncuUygulama</string>
+    <string-array name="spinnerUlke">
+        <item>Ülke Sec</item>
+        <item>Türkiye</item>
+        <item>Almanya</item>
+        <item>Amerika</item>
+        <item>Rusya</item>
+        <item>Çin</item>
+
+
+    </string-array>
+
+
+
+
+</resources>
